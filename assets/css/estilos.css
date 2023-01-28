@@ -8,7 +8,7 @@
 }
 
 .navbar-brand {
-  font-family: "Oswald";
+  font-family: 'Poppins', sans-serif;
   font-weight: bold;
   font-size: 40px;
 }
@@ -16,12 +16,13 @@
 /* Hero - Section */
 
 #Hero-Section {
-  height: 100vh;
-  background: url(../img/cuppon.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  position: relative;
+  height: 100px;
+  background: url("../img/cat_portafolio.png");
+  height: 727px;
+  background-size: contain;
+  
+  background-position:  center center;
+  padding-right: 1280px;
 }
 
 #Hero-Section div {
@@ -38,13 +39,13 @@
 }
 
 #Hero-Section h1:first-child {
-  font-family: "Oswald";
+  font-family: 'Unbounded', cursive;
   font-weight: 200;
   font-size: 72px;
 }
 
 #Hero-Section h1:last-child {
-  font-family: "Oswald";
+  font-family: 'Unbounded', cursive;
   font-weight: 900;
   font-size: 72px;
 }
@@ -62,7 +63,7 @@
 
 #Sobre-Mi div:last-child,
 #Sobre-Mi h4 {
-  font-family: "Open Sans";
+  font-family: 'Quicksand', sans-serif;
   line-height: 3;
 }
 
@@ -73,7 +74,7 @@
 /* Mi Experiencia */
 
 #Experiencia i {
-  color: hsl(237, 93%, 48%);
+  color: rgb(71, 2, 71);
 }
 
 #Experiencia div hr {
