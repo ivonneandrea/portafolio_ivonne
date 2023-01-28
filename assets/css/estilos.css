@@ -85,15 +85,15 @@
 
 #Experiencia div h1 {
   font-size: 52px;
-  font-family: "Oswald";
+  font-family: 'Quicksand', sans-serif;
 }
 
 #Experiencia div:last-child article h4:first-child {
-  font-family: "Oswald";
+  font-family: 'Quicksand', sans-serif;
 }
 
 #Experiencia div:last-child article h4:last-child {
-  font-family: "Open Sans";
+  font-family: 'Quicksand', sans-serif;
   font-weight: 300;
 }
 
