@@ -100,7 +100,7 @@
 /* Mis últimos trabajos */
 
 #Trabajos {
-  background-color: #0915ed;
+  background-color: rgb(128, 91, 221);
 }
 
 #Trabajos h1 {
@@ -113,7 +113,7 @@
 }
 
 #Trabajos h4 {
-  font-family: "Oswald";
+  font-family: 'Poppins', sans-serif;
 }
 
 /* Contacto */
