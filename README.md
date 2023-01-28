@@ -2,6 +2,7 @@
 ##Portafolio colaborativo 
 
 <a href="https://github.com/Pipedesarrollador">Link de github de Felipe Murua</a>
+<a href="https://github.com/marcoslamoza">Link de github de Marcos Lamoza</a>
 
 # portafolio
 `portafolio básico pero muy atractivo`
