@@ -17,7 +17,7 @@
 
 #Hero-Section {
   height: 100vh;
-  background: url("../img/bg_hero.png");
+  background: url("../img_1");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -52,7 +52,7 @@
 /* Sobre Mi */
 
 #Sobre-Mi {
-  color: #373a3c;
+  color: #373c3a;
 }
 
 #Sobre-Mi hr {
@@ -73,14 +73,14 @@
 /* Mi Experiencia */
 
 #Experiencia i {
-  color: #0915ed;
+  color: hsl(237, 93%, 48%);
 }
 
 #Experiencia div hr {
   width: 150px;
   border: 1px solid;
-  background: black;
-}
+  background: rgb(140, 3, 140)
+ }
 
 #Experiencia div h1 {
   font-size: 52px;
