@@ -16,13 +16,13 @@
 /* Hero - Section */
 
 #Hero-Section {
-  height: 100px;
-  background: url("../img/cat_portafolio.png");
-  height: 727px;
-  background-size: contain;
+  height: 100vh;
+  background-image: url("../img/img_9.jpg");
   
-  background-position:  center center;
-  padding-right: 1280px;
+  background-size: cover;
+  background-position:  center;
+  position: center;
+  
 }
 
 #Hero-Section div {
