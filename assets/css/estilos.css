@@ -4,7 +4,7 @@
   background-color: rgb(140, 3, 140);
   position: fixed;
   z-index: 1;
-  width: 100vw;
+  
 }
 
 .navbar-brand {
@@ -18,10 +18,10 @@
 #Hero-Section {
   height: 100vh;
   background-image: url("../img/img_9.jpg");
-  
+  background-repeat: no-repeat;
   background-size: cover;
   background-position:  center;
-  position: center;
+  position: relative;
   
 }
 
